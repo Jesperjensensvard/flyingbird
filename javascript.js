@@ -17,7 +17,7 @@ function startanimation() {
 
   function update() {
   positionX += 1;
-  positionY += Math.random() -0.5 *9;
+  positionY += Math.random() -0.5 *1.1;
   if (positionX > 100) {
       positionX = -30; 
   }   
