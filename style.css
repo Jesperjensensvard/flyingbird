@@ -1,3 +1,7 @@
 #Flyingbird{
     position: fixed;    
 }
+
+.flipped{
+    transform: rotateY(180deg);
+}
